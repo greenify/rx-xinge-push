@@ -1,0 +1,4 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v3">
+  <prescription type="service" class="com.tencent.android.tpush.service.XGPushServiceV3" sender="any" />
+  <prescription type="service" class="com.tencent.android.tpush.rpc.XGRemoteService" sender="any" />
+</prescriptions>
